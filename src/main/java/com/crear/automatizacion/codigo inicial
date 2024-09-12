@@ -114,6 +114,7 @@ public class SharePointAutomation {
                     informesPresentesConFormatoCorrecto.add(nombreArchivo);
                 } else {
                     informesPresentesConFormatoIncorrecto.add(nombreArchivo);
+
                 }
                 informesFaltantes.remove(fechaMes);
             }
